@@ -30,3 +30,32 @@ h1 {
     border: solid 10px;
     margin-left: 500px;
 }
+
+
+/*CSS for Relative Position*/
+
+.one {
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    position: relative;
+    left: 200px;
+    display: inline-block;
+}
+
+.two {
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    position: relative;
+    display: inline-block;
+}
+
+.three {
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    position: relative;
+    right: 200px;
+    display: inline-block;
+}
