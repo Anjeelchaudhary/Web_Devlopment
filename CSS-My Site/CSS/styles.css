@@ -27,23 +27,11 @@ h3 {
     font-family: 'Montserrat', sans-serif;
 }
 
-.top-container {
-    background-color: E4F9F5;
-    padding: 20px;
+.skill-row {
+    margin: 100px auto 100px auto;
+    width: 50%;
+    text-align: left;
+    line-height: 2;
 }
 
-.middle-container {
-    background-color: red;
-    height: 200px;
-    width: 200px;
-    border: solid 20px;
-    margin-left: 260px;
-}
-
-.bottom-container {
-    background-color: blue;
-    height: 200px;
-    width: 200px;
-    border: solid 10px;
-    margin-left: 500px;
-}
+.code-img {}
